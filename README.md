@@ -171,7 +171,7 @@ python pipeline/08_viz_complementaires.py
 ```bash
 # LSTM + MLP supervisé (70% anomalies à l'entraînement)
 python semisupervised/deeplog_combined.py
-
+```
 
 ---
 
