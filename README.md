@@ -103,7 +103,7 @@ deeplog-hdfs-anomaly-detection/
 ## Installation
 
 ```bash
-git clone https://github.com/[username]/deeplog-hdfs-anomaly-detection.git
+git clone https://github.com/waaahaaab/deeplog-hdfs-anomaly-detection.git
 cd deeplog-hdfs-anomaly-detection
 pip install -r requirements.txt
 ```
