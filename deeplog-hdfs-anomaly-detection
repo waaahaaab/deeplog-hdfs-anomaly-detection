@@ -1,0 +1,18 @@
+deeplog-hdfs-anomaly-detection/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── pipeline/
+│   ├── 01_data_preparation.py
+│   ├── 02_model.py
+│   ├── 03_train.py
+│   ├── 04_evaluate.py
+│   ├── 05_visualize.py
+│   ├── 06_mlp_counting.py
+│   ├── 07_robustness.py
+│   └── 08_viz_complementaires.py
+│
+└── semisupervised/
+    └── deeplog_combined.py
