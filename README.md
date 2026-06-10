@@ -172,9 +172,6 @@ python pipeline/08_viz_complementaires.py
 # LSTM + MLP supervisé (70% anomalies à l'entraînement)
 python semisupervised/deeplog_combined.py
 
-# Courbes d'apprentissage
-python semisupervised/fig_complementaire.py
-```
 
 ---
 
